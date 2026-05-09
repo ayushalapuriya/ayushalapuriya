@@ -40,7 +40,7 @@ My core expertise lies in the **MERN Stack**, and I am actively expanding my ski
     <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/ayush-alapuriya" target="_blank">
+  <a href="https://linkedin.com/in/ayush-alapuriya-a4b3132b1" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   &nbsp;

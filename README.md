@@ -1,36 +1,129 @@
 <h1 align="center">Hi 👋, I'm Ayush Alapuriya</h1>
-<h3 align="center">Passionate learner on the path to becoming a professional Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Java | Spring Boot Microservices | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushalapuriya&label=Profile%20views&color=0e75b6&style=flat" alt="ayushalapuriya" /> </p>
-
-- 🔭 I’m currently working on innovative web applications using the MERN stack.
-
-- 🌱 Building next-gen web experiences.
-
-- 👯 Open to collaborate with teams on innovative full-stack projects.
-
-- 👨‍💻 All of my projects are available at **https://github.com/ayushalapuriya?tab=repositories**
-
-- 📝 Deep in code, sharing knowledge along the way.
-
-- 💬 Ask me about JavaScript, React.js, Node.js, MongoDB.
-
-- 📫 How to reach me: [alapuriya0@gmail.com](alapuriya0@gmail.com)
-
-- 📄 Resume coming soon – stay tuned!
-
-- ⚡ Fun fact: I write code like I write stories—one line at a time.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aalapuriya72999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aalapuriya72999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-alapuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-alapuriya" height="30" width="40" /></a>
-<a href="https://instagram.com/its_alapuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_alapuriya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/its_alapuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_alapuriya" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ayushalapuriya">
+    <img src="https://komarev.com/ghpvc/?username=ayushalapuriya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushalapuriya&show_icons=true&locale=en&layout=compact" alt="ayushalapuriya" /></p>
+## 🚀 About Me
+
+I am a passionate **Full Stack Developer** focused on building scalable and impactful applications.
+My core expertise lies in the **MERN Stack**, and I am actively expanding my skills in **Spring Boot Microservices, System Design, and Artificial Intelligence**.
+
+- 🔭 Currently building innovative web applications and enterprise-grade backend systems
+- 🌱 Learning Spring Boot Microservices, Cloud Computing, and AI-powered development
+- 👯 Open to collaborating on real-world products and hackathon projects
+- 💬 Ask me about JavaScript, React.js, Node.js, MongoDB, Java, and REST APIs
+- 📫 Reach me at: **alapuriya0@gmail.com**
+- ⚡ Fun Fact: *I write code like I write stories — one line at a time.*
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://devxayush.me" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/aalapuriya72999" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ayush-alapuriya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/its_alapuriya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/its_alapuriya" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🚨 Disaster Alert Platform
+A real-time MERN application that allows users to send emergency requests with GPS coordinates and images.
+
+### 🤖 Smart Resume Generator
+AI-powered resume builder that generates resumes aligned with current industry trends.
+
+### 📚 Pragya LMS
+A learning management system designed to deliver structured educational content.
+
+### 📋 ProjectHub
+Project management tool with task scheduling, dashboards, notifications, and resource tracking.
+
+### 🎯 JobBuddy
+Personalized AI-based job mentorship platform featuring skill assessments and role-based learning paths.
+
+---
+
+## 🧰 Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,redux,nodejs,express,mongodb,mysql,java,spring,python,git,github,linux,postman,vscode,docker,vercel,netlify&perline=11" />
+</p>
+
+---
+
+## 📂 My Repositories
+
+<p align="center">
+  <a href="https://github.com/ayushalapuriya?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushalapuriya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushalapuriya&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushalapuriya&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🎯 Career Objective
+
+To build scalable software solutions, contribute to innovative engineering teams, and continuously grow as a world-class Software Engineer.
+
+---
+
+## 💡 Personal Motto
+
+<p align="center">
+  <i>"Consistency beats intensity when building a great career in technology." 🚀</i>
+</p>
